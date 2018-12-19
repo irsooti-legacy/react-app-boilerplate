@@ -1,0 +1,2 @@
+export const SET_IDENTITY_FLOW = 'SET_IDENTITY_FLOW'
+export const SET_IDENTITY = 'SET_IDENTITY';

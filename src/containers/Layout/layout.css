@@ -1,0 +1,13 @@
+.layout {
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
+}
+
+.layout.black {
+  background-color: #282c34;
+  color: white;
+}
+
+.layout.default {
+  color: #282c34;
+  background-color: white;
+}
